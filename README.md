@@ -1,4 +1,4 @@
-# 🧮 Calculadora EBAC - Projeto Final
+# 🧮 Calculadoras EBAC - Projeto Final
 
 ## 📌 Sobre o Projeto
 
